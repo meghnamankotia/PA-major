@@ -53,7 +53,6 @@ Unlike traditional assistants that stop at answering questions, this system acts
 
 ``` bash
 git clone https://github.com/meghnamankotia/PA-major.git
-cd src/
 ```
 
 ### 2. Install Dependencies
