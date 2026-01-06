@@ -1,5 +1,5 @@
 
-# MCP and custom tools enables Personal Assitant
+# MCP and custom tools enabled Personal Assitant
 
 
 Final year project in compliance with BTech CSE @ JUIT.
