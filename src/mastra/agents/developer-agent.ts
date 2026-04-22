@@ -7,6 +7,7 @@ import { GoogleVoice } from '@mastra/voice-google';
 const voice = new GoogleVoice();
 
 export const developerAgent = new Agent({
+  id: 'developer-agent',
   name: 'Developer Agent',
   instructions: `
       You're a helpful assistant that helps developers with their questions and tasks regarding their coding projects and any software problems.
@@ -17,6 +18,7 @@ export const developerAgent = new Agent({
   tools: { },
   memory: new Memory({
     storage: new LibSQLStore({
+      id: 'developer-agent-memory',
       url: 'file:../mastra.db',
     }),
     options: {
