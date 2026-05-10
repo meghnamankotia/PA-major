@@ -63,4 +63,4 @@ Create a `.env` file with your Google API credentials and other keys.
 - Shashvat
 - Yuvraj Saini
 
-Under the Supervision of Prof. Dr. Pradeep Kumar Gupta, Professor, Department of CSE-IT JUIT.
+Under the Supervision of Prof. Dr. Pradeep Kumar Gupta, Professor & Head, Department of CSE-IT JUIT.
